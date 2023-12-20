@@ -1,5 +1,4 @@
-import { Bell, Bold, LogOut, UserRound } from 'lucide-react'
-import React from 'react'
+import { Bell, LogOut, UserRound } from 'lucide-react'
 
 
 

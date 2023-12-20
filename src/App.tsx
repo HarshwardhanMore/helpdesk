@@ -1,19 +1,12 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
-import UserSideBar from './components/custom/UserSideBar'
-import { Link, Route, Routes } from 'react-router-dom'
+import {  Route, Routes } from 'react-router-dom'
 import UserDashboard from './components/custom/pages/user/UserDashboard'
 import UserNewTicket from './components/custom/pages/user/UserNewTicket'
 import UserMyTicket from './components/custom/pages/user/UserMyTicket'
-import NavBar from './components/custom/NavBar'
-import User from './components/custom/pages/user/User'
-import Auth from './components/custom/pages/auth/Auth'
 import Login from './components/custom/pages/auth/Login'
 import SignUp from './components/custom/pages/auth/SignUp'
 import ForgotPassword from './components/custom/pages/auth/ForgotPassword'
-import AuthLayout from './components/custom/layouts/AuthLayout'
 
 function App() {
 

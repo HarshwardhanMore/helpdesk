@@ -1,4 +1,4 @@
-import React from 'react'
+
 import UserDashboardLayout from '../../layouts/UserDashboardLayout'
 
 const Card = ({title, num} : any) => {

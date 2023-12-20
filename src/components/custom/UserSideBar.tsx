@@ -1,7 +1,6 @@
 // src/components/Sidebar.tsx
 import { FolderInput, FolderOpen, LayoutDashboard } from 'lucide-react';
-import React, { useState } from 'react';
-import { Link, Route, Routes } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 const UserSideBar: React.FC = () => {
 

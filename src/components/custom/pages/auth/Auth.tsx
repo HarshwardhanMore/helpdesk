@@ -1,4 +1,4 @@
-import React from 'react'
+
 import AuthLayout from '../../layouts/AuthLayout'
 import Login from './Login'
 import SignUp from './SignUp'
